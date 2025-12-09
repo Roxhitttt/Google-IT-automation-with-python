@@ -81,3 +81,64 @@ It is important to understand that basic automation is not the same as artificia
 2. Artificial Intelligence: Artificial intelligence involves training machines to perform complex tasks through machine learning, differing from basic automation which follows explicit instructions.
 3. Appropriate Uses of Automation: Automation is suitable for tasks that are repetitive, high-risk for human error, or require consistent execution, such as traffic light regulation and data reporting.
 4. Automation: Automation refers to the use of technology to perform tasks without human intervention, replacing repetitive manual steps with automated processes.
+
+## Getting Computers to Work for You
+Imagine this scenario. Your company had a booth at a recent conference and has gathered a huge list of emails from people interested in learning more about your products. You want to send these people your monthly email newsletter, but some of the people on the list are already subscribed to receive it. So, how do you make sure everyone receives your newsletter without accidentally sending it to the same person twice? Well, you could manually check each email address one by one to make sure you only add new ones to the list. Sounds boring and inefficient, right? 
+
+ You might accidentally miss new emails or add emails that were already there
+
+So, what could you do instead? You could get the computer to do the work for you. You could write a program that checks for duplicates and then adds each new email to the list. Your computer will do exactly as it's told, no matter how many emails there are in the list. 
+
+#### Quesation : Which of the following tasks do you think are good candidates for automation? Check all that apply.
+
+1. Investigating reports that customers are having difficulty accessing your company's external website
+
+2. Periodically scanning the disk usage of a group of fileservers
+
+3. Installing software on laptops given to new employees when they are hired
+
+4. Designing a configuration management system for deploying software patches
+
+Ans - 2 & 3
+
+# Study Guide: Introduction to Programming
+
+## Key Terms
+
+* Programming languages : Programming languages are similar to human spoken languages in that they both use syntax and semantics. Programming languages are used to write computer programs.  Some common programming languages include Python, Java, C, C++, C#, and R.
+
+* Computer program - A computer program is a step-by-step list of instructions that a computer follows to reach an intended goal. It is important to be clear and precise about the actions a computer program is supposed to perform because computers will do exactly what they are instructed to do. Computer programs can be long, complex, and accomplish a variety of tasks. They are often developed by computer programmers and software engineers, but anyone can learn to create them. Computer programs may involve a structured development cycle. They can be written in a wide variety of programming languages, such as Python, Java, C++,  R, and more. The completed format of a program is often a single executable file.
+
+* Automation - Automation is used to replace a repetitive manual step with one that happens automatically. 
+
+* Output - Output is the end result of a task performed by a function or computer program. Output can include a single value, a report, entries into a database, and more. 
+
+* Input - Input is information that is provided to a program by the end user. Input can be text, voice, images, biometrics, and more.   
+
+* Functions - A function is a reusable block of code that performs a specific task.
+
+* Variables - Variables are used to temporarily store changeable values in programming code.
+
+# Python
+
+* Python interpreter : The program that reads what's in the recipe and translates it into instructions for your computer to follow 
+
+# A Note on Syntax and Code Blocks
+
+When writing code, using correct syntax is critical. Even a small typo, like a missing parenthesis bracket or an extra comma, can cause a syntax error and the code won't execute at all. If your code results in an error or an exception, pay close attention to syntax and watch out for minor mistakes. A single wrong character could take hours to identify in long code so it is important to be mindful of syntax when writing code. 
+
+#### Common syntax errors:
+
+* Misspellings
+* Incorrect indentations
+
+1. Missing or incorrect key characters:
+* Bracket types - ( curved ), [ square ], { curly }
+* Quote types - "straight-double" or 'straight-single', “curly-double” or ‘curly-single’
+* Block introduction characters, like colons - :
+
+* Data type mismatches
+* Missing, incorrectly used, or misplaced Python reserved words
+* Using the wrong case (uppercase/lowercase) - Python is a case-sensitive language
+
+
