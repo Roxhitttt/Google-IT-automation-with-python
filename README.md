@@ -141,4 +141,26 @@ When writing code, using correct syntax is critical. Even a small typo, like a m
 * Missing, incorrectly used, or misplaced Python reserved words
 * Using the wrong case (uppercase/lowercase) - Python is a case-sensitive language
 
+# Why is Python relevant to IT?
+
+You can use Python to calculate statistics, run your e-commerce site, process images, interact with web services, and do a whole host of other tasks. Python is perfect for automation. It lets you automate everyday tasks by writing simple scripts that are easy to understand and easy to maintain. That's why Python is the language of choice for lots of people working in IT support, system administration, and web development. 
+it's also used in fast-growing areas of IT like machine learning or data analytics. 
+
+## Introduction to python
+
+Python is a general purpose programming language that is commonly used for scripting and automation, as well as to develop a wide variety of applications. Python is compatible with most operating systems, including Windows, Linux, and Mac OS, and is updated every few years. Python can also run on a variety of machines, such as servers, workstations, PCs, mobile devices, IoT, and more.
+
+Python is widely used in the IT field, including IT support, system administration, web development, machine learning, data analytics, and more. Python can be used to calculate statistics, run your e-commerce site, process images, interact with web services, and do a whole host of other tasks. Python instructions resemble the English language
+
+Python is:
+
+* a general purpose scripting language;
+
+* a popular language used to code a variety of applications;
+
+* a frequently used tool for automation;
+
+* a cross-platform compatible language;
+
+* a beginner-friendly language.
 
